@@ -1,0 +1,1 @@
+var json_Airport_2 = {"type":"FeatureCollection","name":"Airport_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"AP_NAME":"TAPLEJUNG","ADDRESS":"Suketar"},"geometry":{"type":"Point","coordinates":[87.69838033073674,27.350488258887651]}}]}
